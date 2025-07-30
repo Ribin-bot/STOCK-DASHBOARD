@@ -3,9 +3,9 @@
 
 A simple and interactive **Stock Market Dashboard** built using **Streamlit**, **YFinance**, **Plotly**, and **Pandas**. This application allows users to:
 
-✅ Fetch historical stock price data
-✅ Visualize closing prices with interactive charts
-✅ Download the stock data as a CSV file
+Fetch historical stock price data
+Visualize closing prices with interactive charts
+Download the stock data as a CSV file
 
 ---
 
@@ -30,10 +30,10 @@ A simple and interactive **Stock Market Dashboard** built using **Streamlit**, *
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📦 Stock-Market-Dashboard
+Stock-Market-Dashboard
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
@@ -41,7 +41,7 @@ A simple and interactive **Stock Market Dashboard** built using **Streamlit**, *
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -76,7 +76,7 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
-## 📦 requirements.txt
+## requirements.txt
 
 ```
 streamlit
